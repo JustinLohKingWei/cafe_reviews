@@ -1,2 +1,2 @@
 # cafe_reviews
-A short ,singe page practice flutter application.
+A short ,single page practice flutter application.
